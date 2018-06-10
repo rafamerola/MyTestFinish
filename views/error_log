@@ -1,0 +1,3 @@
+[10-Jun-2018 05:00:46 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/juckmusi/public_html/mytest/class/users.php on line 47
+[10-Jun-2018 05:05:30 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/juckmusi/public_html/mytest/class/users.php on line 47
+[10-Jun-2018 05:06:34 America/Sao_Paulo] PHP Notice:  Undefined index: usr_senha in /home/juckmusi/public_html/mytest/views/autorizar.php on line 27

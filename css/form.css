@@ -1,0 +1,57 @@
+#message {
+    display:none;
+    background: #f1f1f1;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+#message p {
+    padding: 10px 35px;
+    font-size: 18px;
+}
+.valid {
+    color: green;
+}
+
+.valid:before {
+    position: relative;
+    left: -35px;
+    content: "&#10004;";
+}
+.invalid {
+    color: red;
+}
+
+.invalid:before {
+    position: relative;
+    left: -35px;
+    content: "&#10006;";
+}
+
+
+#login-from{
+width:30%;
+border-style: solid;
+border-width: 1px;
+padding: 1%;
+float: left;
+margin-left: 10%;
+margin-top: 5%;
+}
+
+#registro-from{
+    width: 40%;
+    border-style: solid;
+    border-width: 1px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding: 1%;
+}
+#banner{
+
+    height:100%;
+    
+}
